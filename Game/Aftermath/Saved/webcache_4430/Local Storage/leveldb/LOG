@@ -1,2 +1,3 @@
-2025/05/02-15:26:49.200 2424 Creating DB D:/PersonalProjects/Battlefield_Aftermath/UE5-Aftermath/Game/Aftermath/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/05/02-15:26:49.622 2424 Reusing MANIFEST D:/PersonalProjects/Battlefield_Aftermath/UE5-Aftermath/Game/Aftermath/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/08-21:41:20.199 66f8 Reusing MANIFEST D:/PersonalProjects/Battlefield_Aftermath/UE5-Aftermath/Game/Aftermath/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/08-21:41:20.199 66f8 Recovering log #3
+2025/05/08-21:41:20.200 66f8 Reusing old log D:/PersonalProjects/Battlefield_Aftermath/UE5-Aftermath/Game/Aftermath/Saved/webcache_4430\Local Storage\leveldb/000003.log 
